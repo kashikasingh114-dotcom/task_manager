@@ -2,10 +2,10 @@
 
 "An interactive web app to manage tasks with calendar and progress tracking".
 
-## ✨ Features:
-* 📅 Calendar-based task tracking
-* 📊 Progress percentage system
-* 🌙 Dark/Light mode
+## 🚀 Features
+- Add, edit, delete tasks
+- Track progress
+- Calendar integration
 
 ## 🛠️ Tech Stack:
 * HTML
